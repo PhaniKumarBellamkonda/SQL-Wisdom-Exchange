@@ -35,6 +35,10 @@ The script uses Windows Management Instrumentation (WMI) to gather system inform
 - PowerShell (any version that supports the `Get-WmiObject` cmdlet, generally from PowerShell 2.0 upwards).
 - Failover Clustering module (for cluster information, optional).
 
+## File Path
+SQL-Wisdom-Exchange Code/OS_info.ps1
+
+
 ## Instructions
 
 1. Copy the script into a `.ps1` file.
